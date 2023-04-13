@@ -10,6 +10,7 @@ The following Python libraries are required to run this project:
 - datetime
 - gtts
 - playsound
+
 The project also requires an OpenAI API key, which should be stored in a file called 'openai_api_key.txt' in the project's root directory.
 
 ## Running the Chatbot
